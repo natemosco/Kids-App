@@ -1,0 +1,1127 @@
+{
+    "people": {
+        "banner": "people.png",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "animals": {
+        "banner": "animals.jpg",
+        "data": [{
+                "word": "Bee",
+                "image": "/media/bee.png",
+                "sound": "Bee"
+            },
+            {
+                "word": "Bird",
+                "image": "/media/bird.png",
+                "sound": "Bird"
+            },
+            {
+                "word": "Bug",
+                "image": "/media/bug.png",
+                "sound": "Bug"
+            },
+            {
+                "word": "Cat",
+                "image": "/media/cat.png",
+                "sound": "Cat"
+            },
+            {
+                "word": "Chicken",
+                "image": "/media/chicken.png",
+                "sound": "Chicken"
+            },
+            {
+                "word": "Cow",
+                "image": "/media/cow.png",
+                "sound": "Cow"
+            },
+            {
+                "word": "Dog",
+                "image": "/media/dog.png",
+                "sound": "Dog"
+            },
+            {
+                "word": "Duck",
+                "image": "/media/duck.png",
+                "sound": "Duck"
+            },
+            {
+                "word": "Elephant",
+                "image": "/media/elephant.png",
+                "sound": "Elephant"
+            },
+            {
+                "word": "Fish",
+                "image": "/media/fish.png",
+                "sound": "Fish"
+            },
+            {
+                "word": "Frog",
+                "image": "/media/frog.png",
+                "sound": "Frog"
+            },
+            {
+                "word": "Horse",
+                "image": "/media/horse.png",
+                "sound": "Horse"
+            },
+            {
+                "word": "Pig",
+                "image": "/media/pig.png",
+                "sound": "Pig"
+            },
+            {
+                "word": "Puppy",
+                "image": "/media/puppy.png",
+                "sound": "Puppy"
+            },
+            {
+                "word": "Snake",
+                "image": "/media/snake.png",
+                "sound": "Snake"
+            },
+            {
+                "word": "Tiger",
+                "image": "/media/tiger.png",
+                "sound": "Tiger"
+            },
+            {
+                "word": "Turkey",
+                "image": "/media/turkey.png",
+                "sound": "Turkey"
+            },
+            {
+                "word": "Turtle",
+                "image": "/media/turtle.png",
+                "sound": "turtle"
+            }
+        ]
+    },
+    "adjectives": {
+        "banner": "adjectives.jpg",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "actions": {
+        "banner": "actions.jpg",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "household": {
+        "banner": "household.jpg",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "body-parts": {
+        "banner": "body-parts.jpg",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "clothes": {
+        "banner": "clothes.png",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "personal": {
+        "banner": "personal.jpg",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "toys": {
+        "banner": "toys.jpg",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "vehicles": {
+        "banner": "vehicles.jpg",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "food": {
+        "banner": "food.jpg",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "places": {
+        "banner": "places.jpg",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "outdoors": {
+        "banner": "outdoors.jpg",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "other": {
+        "banner": "other.jpg",
+        "data": [{
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            },
+            {
+                "word": "",
+                "image": "",
+                "sound": ""
+            }
+        ]
+    },
+    "settings": {
+        "banner": "settings.png",
+        "data": ""
+    }
+}
